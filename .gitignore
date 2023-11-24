@@ -1,2 +1,4 @@
 /target
-/pkg
+/src/raymarching_shader.wgsl
+/src/shadertoy.wgsl
+/src/basic_shader.wgsl
